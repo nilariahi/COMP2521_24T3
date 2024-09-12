@@ -1,2 +1,7 @@
-# COMP2521_24T3
-Tutorial solutions for COMP2521 H11A and H17A
+# 24T3 COMP2521 Data Structure and Algorithms Tutorial Solutions
+
+Solutions repo for COMP2521 24T3 tutorials (H11A, H17A).
+
+Organised by week:
+
+* [Week 1](week01): pointers, malloc, linked lists
