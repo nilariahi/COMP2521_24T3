@@ -102,6 +102,7 @@
             prev = curr;
         }
 
+        // value not in list
         if (curr == NULL) return list;
 
         // delete head
@@ -141,6 +142,7 @@
             prev = curr;
         }
 
+        // value not in list
         if (curr == NULL) return;
 
         // delete head
