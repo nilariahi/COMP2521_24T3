@@ -5,3 +5,5 @@ Solutions repo for COMP2521 24T3 tutorials (H11A, H17A).
 Organised by week:
 
 * [Week 1](week01): pointers, malloc, linked lists
+* [Week 2](week02): recursion, time complexity
+
