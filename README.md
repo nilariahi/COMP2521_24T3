@@ -7,3 +7,4 @@ Organised by week:
 * [Week 1](week01): pointers, malloc, linked lists
 * [Week 2](week02): recursion, time complexity
 * [Week 3](week03): sorting algorithms
+* [Week 4](week04): ADTs, binary search trees
