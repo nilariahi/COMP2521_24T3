@@ -9,3 +9,4 @@ Organised by week:
 * [Week 3](week03): sorting algorithms
 * [Week 4](week04): ADTs, binary search trees
 * [Week 5](week05): balancing BSTs, AVL trees, graph reps
+* [Week 7](week07): graph traversal, graph problems (i)
