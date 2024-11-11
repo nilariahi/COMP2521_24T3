@@ -11,3 +11,5 @@ Organised by week:
 * [Week 5](week05): balancing BSTs, AVL trees, graph reps
 * [Week 7](week07): graph traversal, graph problems (i)
 * [Week 8](week08): graph problems (ii)
+* [Week 9](week09): hash tables
+
